@@ -1,0 +1,86 @@
+[
+  {
+    "Prompt": "What is an operating system?\n",
+    "Message": "An operating system is the software that manages a computer's hardware and provides a platform for running applications.",
+    "TimeSent": 1724682446,
+    "TimeRecvd": 1724682447,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is the OSI model?\n",
+    "Message": "The OSI model is a conceptual framework that describes the different layers of communication in a computer network.",
+    "TimeSent": 1724682447,
+    "TimeRecvd": 1724682448,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "Who was Alan Turing?\n",
+    "Message": "Alan Turing was a British mathematician and computer scientist who is considered the father of theoretical computer science and artificial intelligence.",
+    "TimeSent": 1724682448,
+    "TimeRecvd": 1724682449,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "How do computer networks work?\n",
+    "Message": "Computer networks allow devices to share information and resources by connecting them through a system of interconnected pathways.",
+    "TimeSent": 1724682449,
+    "TimeRecvd": 1724682450,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is the Linux Kernel?\n",
+    "Message": "The Linux kernel is the core of the Linux operating system, responsible for managing hardware and providing essential services to applications.",
+    "TimeSent": 1724682450,
+    "TimeRecvd": 1724682450,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is a File system?\n",
+    "Message": "A file system is a hierarchical structure that organizes and manages files and directories on a storage device.",
+    "TimeSent": 1724682450,
+    "TimeRecvd": 1724682451,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is Docker?\n",
+    "Message": "Docker is a platform for building, sharing, and running applications in isolated environments called containers.",
+    "TimeSent": 1724682451,
+    "TimeRecvd": 1724682452,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is a GPU and how is it different from a CPU?\n",
+    "Message": "A GPU is a specialized processor optimized for parallel processing tasks like graphics rendering and machine learning, while a CPU is a general-purpose processor designed for a wider range of tasks.",
+    "TimeSent": 1724682452,
+    "TimeRecvd": 1724682453,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What are the layers of the OSI model?\n",
+    "Message": "The OSI model consists of seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.",
+    "TimeSent": 1724682453,
+    "TimeRecvd": 1724682454,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is BeeGFS?\n",
+    "Message": "BeeGFS is a high-performance parallel file system designed for large-scale scientific computing environments.",
+    "TimeSent": 1724682454,
+    "TimeRecvd": 1724682455,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What are the various components that comprise a computer?\n",
+    "Message": "A computer is comprised of hardware, software, data, users, and a network.",
+    "TimeSent": 1724682455,
+    "TimeRecvd": 1724682455,
+    "Source": "Gemini"
+  },
+  {
+    "Prompt": "What is Federated Learning?",
+    "Message": "Federated Learning is a machine learning technique where models are trained on decentralized data without sharing it, preserving privacy.",
+    "TimeSent": 1724682455,
+    "TimeRecvd": 1724682456,
+    "Source": "Gemini"
+  }
+]
