@@ -24,7 +24,7 @@ stop_server() {
 }
 
 
-export API_KEY='AIzaSyBZXWzfBlOYJj_ZJYeeORS3y_ZVG-ZcxZA'
+export API_KEY=<enter api key>
 
 start_server
 start_client
