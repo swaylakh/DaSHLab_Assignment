@@ -1,0 +1,18 @@
+[
+  {
+    "client_id": 5,
+    "Prompt": "What are the various components that comprise a computer?",
+    "Message": "A computer typically comprises hardware (input, processing, storage, output) and software (operating system, applications).",
+    "TimeSent": 1724840052,
+    "TimeRecvd": 1724840053,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 5,
+    "Prompt": "What is Federated Learning?",
+    "Message": "Federated learning is a machine learning technique where multiple devices collaboratively train a model without sharing their raw data.",
+    "TimeSent": 1724840053,
+    "TimeRecvd": 1724840054,
+    "Source": "Gemini"
+  }
+]

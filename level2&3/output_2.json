@@ -1,0 +1,26 @@
+[
+  {
+    "client_id": 2,
+    "Prompt": "How do computer networks work?",
+    "Message": "Computer networks allow devices to communicate and share data using interconnected pathways and protocols.",
+    "TimeSent": 1724840047,
+    "TimeRecvd": 1724840047,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 2,
+    "Prompt": "What is the Linux Kernel?",
+    "Message": "The Linux kernel is the core of the Linux operating system, managing the system's resources and providing a platform for applications.",
+    "TimeSent": 1724840047,
+    "TimeRecvd": 1724840049,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 2,
+    "Prompt": "What is a File system?",
+    "Message": "A file system is a method of storing and organizing files on a storage device.",
+    "TimeSent": 1724840049,
+    "TimeRecvd": 1724840049,
+    "Source": "Gemini"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "client_id": 3,
+    "Prompt": "What is Docker?",
+    "Message": "Docker is a platform for packaging, distributing, and running applications in isolated environments called containers.",
+    "TimeSent": 1724840049,
+    "TimeRecvd": 1724840050,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 3,
+    "Prompt": "What is a GPU and how is it different from a CPU?",
+    "Message": "A GPU is a specialized processor designed for parallel processing of graphical data, while a CPU is a general-purpose processor for handling a wider range of tasks.",
+    "TimeSent": 1724840050,
+    "TimeRecvd": 1724840051,
+    "Source": "Gemini"
+  }
+]

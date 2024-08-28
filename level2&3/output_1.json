@@ -1,0 +1,26 @@
+[
+  {
+    "client_id": 1,
+    "Prompt": "What is an operating system?",
+    "Message": "An operating system is the software that manages a computer's hardware and resources, providing a platform for applications to run.",
+    "TimeSent": 1724840043,
+    "TimeRecvd": 1724840045,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 1,
+    "Prompt": "What is the OSI model?",
+    "Message": "The OSI model is a conceptual framework that divides network communication into seven distinct layers, each handling a specific aspect of data transmission.",
+    "TimeSent": 1724840045,
+    "TimeRecvd": 1724840046,
+    "Source": "Gemini"
+  },
+  {
+    "client_id": 1,
+    "Prompt": "Who was Alan Turing?",
+    "Message": "Alan Turing was a British mathematician and computer scientist who is considered the father of theoretical computer science and artificial intelligence.",
+    "TimeSent": 1724840046,
+    "TimeRecvd": 1724840047,
+    "Source": "Gemini"
+  }
+]
