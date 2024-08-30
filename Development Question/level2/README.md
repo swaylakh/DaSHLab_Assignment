@@ -6,4 +6,6 @@
 
 - Client script partitions input.txt into several loads and assigns a client ID to each and then sends it to the server to act as multiple clients and receives the output file
 
-- The server doesn't handle multiple requests at once and only processes one client at a time; threading can resolve this in the future. 
+- The server doesn't handle multiple requests at once and only processes one client at a time; threading can resolve this in the future.
+
+- Docker file is incomplete ( no time to complete level 3)
